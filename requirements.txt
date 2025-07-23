@@ -1,6 +1,5 @@
 setuptools>=65.0.0
 wheel>=0.38.0
-﻿absl-py==2.3.1
 altair==5.5.0
 astunparse==1.6.3
 attrs==25.3.0
@@ -104,5 +103,7 @@ python-dateutil==2.9.0
 pywin32==306
 pyzmq==26.0.3
 six==1.16.0
+absl-py==2.3.1
+
 
 
