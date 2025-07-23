@@ -73,12 +73,11 @@ Conda environment used for reproducibility (environment.yml included).
 Streamlit dashboard available [if applicable].
 
 🌟 Results
-Achieved XX% accuracy on test set
+Achieved 86.20% accuracy on test set
 
-Misclassified X% of churners—analysis provided in notebook
 
 🧠 Future Enhancements
-Hyperparameter tuning with GridSearchCV
+Hyperparameter tunings with GridSearchCV
 
 Model versioning with MLflow
 
