@@ -1,3 +1,5 @@
+setuptools>=65.0.0
+wheel>=0.38.0
 ﻿absl-py==2.3.1
 altair==5.5.0
 astunparse==1.6.3
