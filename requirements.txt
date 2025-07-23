@@ -1,14 +1,4 @@
-
-scikeras==0.12.0
-scikit-learn==1.7.0
-pandas==2.3.1
-numpy==1.26.4
-matplotlib==3.10.3
-streamlit==1.25.0
-altair==5.5.0
-h5py==3.14.0
-protobuf==4.25.8
-requests==2.32.4
+tensorflow==2.12.0 keras==2.12.0 scikeras==0.12.0 scikit-learn==1.7.0 pandas==2.3.1 numpy==1.26.4 matplotlib==3.10.3 streamlit==1.25.0 altair==5.5.0 h5py==3.14.0 protobuf==4.25.8 tensorboard==2.15.2 tensorflow-io-gcs-filesystem==0.31.0 requests==2.32.4
 
 
 
